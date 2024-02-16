@@ -12,7 +12,7 @@ function my_shortcode_function($atts) {
     // Start output buffering
     ob_start();
     ?>
-	<style>
+	<style> 
 		#form_set {
     			/* margin-left: 584px !important; */	
 		}
